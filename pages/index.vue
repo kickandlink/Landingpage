@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">Kick & Link</h1>
-      <h2 class="subtitle">Landing Page (Powered by Adil Mania)</h2>
+      <h2 class="subtitle">Landing Page (by Adil Mania)</h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
         <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
