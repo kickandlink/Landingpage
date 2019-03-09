@@ -1,0 +1,55 @@
+// Import a Google Font
+@import url("https://fonts.googleapis.com/css?family=Dosis");
+
+// Import Bulma's core
+@import "~bulma/sass/utilities/_all";
+
+// Set fonts
+$family-sans-serif: "Dosis",
+sans-serif;
+$family-monospace: "Dosis",
+sans-serif;
+$family-primary: "Dosis",
+sans-serif;
+$family-secondary: "Dosis",
+sans-serif;
+$body-family: "Dosis",
+sans-serif;
+$code-family: "Dosis",
+sans-serif;
+
+// Set your colors
+$primary: #2fd685;
+$primary-invert: findColorInvert($primary);
+$twitter: #4099FF;
+$twitter-invert: findColorInvert($twitter);
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: ("white": ($white, $black),
+"black": (#2b2d3a, $white),
+"light": ($light, $light-invert),
+"dark": ($dark, $dark-invert),
+"primary": ($primary, $primary-invert),
+"info": ($info, $info-invert),
+"success": ($success, $success-invert),
+"warning": ($warning, $warning-invert),
+"danger": ($danger, $danger-invert),
+"twitter": ($twitter, $twitter-invert));
+
+// Links
+$link: $primary;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+// Logo
+$navbar-item-img-max-height: 3rem;
+
+.grow:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+// Import Bulma and Buefy styles
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
