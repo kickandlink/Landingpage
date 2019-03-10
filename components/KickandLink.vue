@@ -1,5 +1,5 @@
 <template>
-  <section class="hero is-light">
+  <section class="hero">
     <div class="hero-body">
       <div class="columns">
         <div class="column is-two-thirds">
