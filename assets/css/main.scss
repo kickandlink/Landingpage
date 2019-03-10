@@ -50,6 +50,12 @@ $navbar-item-img-max-height: 3rem;
   transform: scale(1.1);
 }
 
+.hero-foot {
+  img.partner-logo {
+    height: 70px;
+  }
+}
+
 // Import Bulma and Buefy styles
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
