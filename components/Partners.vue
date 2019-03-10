@@ -6,17 +6,26 @@
           <ul>
             <li>
               <a>
-                <img class="partner-logo" src="@/assets/img/pepite.png">
+                <img
+                  class="partner-logo"
+                  src="https://raw.githubusercontent.com/kickandlink/landingpage/master/assets/img/pepite.png"
+                >
               </a>
             </li>
             <li>
               <a>
-                <img class="partner-logo" src="@/assets/img/Squarelab.png">
+                <img
+                  class="partner-logo"
+                  src="https://raw.githubusercontent.com/kickandlink/landingpage/master/assets/img/SquareLab.png"
+                >
               </a>
             </li>
             <li>
               <a>
-                <img class="partner-logo" src="@/assets/img/startupweekend.png">
+                <img
+                  class="partner-logo"
+                  src="https://raw.githubusercontent.com/kickandlink/landingpage/master/assets/img/startupweekend.png"
+                >
               </a>
             </li>
           </ul>
