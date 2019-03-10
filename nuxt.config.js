@@ -47,6 +47,7 @@ module.exports = {
   modules: [
     // Simple usage
     'nuxt-buefy',
+    'nuxt-fontawesome'
   ],
   build: {
     /*

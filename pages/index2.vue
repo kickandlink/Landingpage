@@ -41,6 +41,7 @@
         </div>
       </div>
     </div>
+
     <div class="hero-foot mb-20">
       <div class="container">
         <div class="tabs is-centered">

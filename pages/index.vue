@@ -14,7 +14,7 @@ import Hero from "~/components/Hero.vue";
 import Partners from "~/components/Partners.vue";
 import Services from "~/components/Services.vue";
 import Testimonials from "~/components/Testimonials.vue";
-import KickandLink from "~/components/KickandLink.vue";
+import Kickandlink from "~/components/Kickandlink.vue";
 import Contact from "~/components/Contact.vue";
 
 export default {
@@ -23,7 +23,7 @@ export default {
     Partners,
     Services,
     Testimonials,
-    KickandLink,
+    Kickandlink,
     Contact
   }
 };
